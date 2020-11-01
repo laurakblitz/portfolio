@@ -3,12 +3,12 @@
    background-repeat: no-repeat;
    background-position: bottom;
    background-size: cover;
-   /*width: auto;*/
+   width: auto;
    height: 890px;
    font-family: 'Playfair Display', serif;
 }
 
-.jumbotron-fluid {
+/*.jumbotron-fluid {
    background-image: url('../assets/macbook.webp');
    background-repeat: no-repeat;
    background-position: bottom;
@@ -16,7 +16,7 @@
    /*width: auto;*/
    height: 890px;
    font-family: 'Playfair Display', serif;
-}
+}*/
 
 .display-4 {
    font-size: 90px;
